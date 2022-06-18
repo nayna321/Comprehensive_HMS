@@ -1,0 +1,19 @@
+.bg{
+    background-image: url(../../assets/img/gallery/gallery-4.png);
+    height: 680px;
+    background-size: cover;
+}
+.container{
+    height: auto;
+    background-color: #e4e4e4c4;
+}
+.my-button{
+    color: #fff;
+    background-color: #DD4E7E;
+    border-color: #c13e6a;
+}
+/* .contact-image{
+    width:auto;
+    height: 100px;
+    border-radius: 50px;
+} */
